@@ -1,0 +1,740 @@
+    <!DOCTYPE html>
+    <html lang="fr">
+    <head>
+                
+                                
+    
+
+<!-- Required meta tags always come first -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+<!-- favicons -->
+<link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/favicons/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/favicons/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/favicons/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/favicons/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/favicons/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/favicons/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicons/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/favicons/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+
+<link rel="canonical" href="https://www.franceculture.fr/emissions/les-nouveaux-chemins-de-la-connaissance/la-liberte-15-marx" />
+
+<meta name="description" content="La liberté 1/5: Marx. en replay sur France Culture. Retrouvez l&#039;émission en réécoute gratuite et abonnez-vous au podcast !">
+
+    
+<link rel="publisher" href="https://plus.google.com/109041382134244612447" />
+
+<title>La liberté 1/5: Marx.</title>
+
+<!-- Open Graph data -->
+<meta property="og:url" content="https://www.franceculture.fr/emissions/les-nouveaux-chemins-de-la-connaissance/la-liberte-15-marx" />
+<meta property="og:title" content="La liberté 1/5: Marx." />
+
+    <meta property="og:description" content="La liberté 1/5: Marx. en replay sur France Culture. Retrouvez l&#039;émission en réécoute gratuite et abonnez-vous au podcast !" />
+
+
+
+                    <meta property="og:type" content="article" />
+    
+<meta property="og:locale" content="fr_FR" />
+<meta property="og:site_name" content="France Culture" />
+<meta property="og:image" content="http://www.franceculture.fr/img/image-culture-defaut-partage.jpg" />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+
+<meta property="fb:app_id" content="1607849499491866" />
+
+<!-- Twitter Card data -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@franceculture">
+<meta name="twitter:title" content="La liberté 1/5: Marx.">
+<meta name="twitter:url" content="https://www.franceculture.fr/emissions/les-nouveaux-chemins-de-la-connaissance/la-liberte-15-marx">
+<meta name="twitter:description" content="La liberté 1/5: Marx. en replay sur France Culture. Retrouvez l&#039;émission en réécoute gratuite et abonnez-vous au podcast !">
+<!-- Twitter summary card with large image must be at least 280x150px -->
+<meta name="twitter:image" content="http://www.franceculture.fr/img/image-culture-defaut-partage.jpg">
+
+    <meta property="article_short_title" content="true" />
+        
+                    <link rel="stylesheet" href="/css/main-5523af8a41.min.css">
+        
+                    <script src='//www6.smartadserver.com/config.js?nwid=798' type="text/javascript" async data-no-instant></script><script type="text/javascript" data-no-instant>
+            var sas = window.sas || {};
+
+            sas.cmd = window.sas.cmd || [];
+
+            'object' === typeof window.sas && window.sas.cmd instanceof Array && window.sas.cmd.push(function() {
+                window.sas.setup({ domain: 'https://www6.smartadserver.com', async: true});
+            });
+        </script>
+            </head>
+    <body id="body" class="" itemscope itemtype="http://schema.org/WebPage">
+                    <header id="header-main"><div class="metanav" data-metanav><ul><li><a href="http://www.radiofrance.fr" title="radio france" target="_blank">Radio France</a></li><li><a href="//www.franceinter.fr" title="France Inter" target="_blank">France Inter</a></li><li><a href="http://www.francetvinfo.fr" title="franceinfo" target="_blank">franceinfo</a></li><li><a href="//www.francebleu.fr" title="France Bleu" target="_blank">France Bleu</a></li><li><a href="https://www.francemusique.fr" title="France Musique" target="_blank">France Musique</a></li><li><a href="http://www.fipradio.fr" title="Fip" target="_blank">Fip</a></li><li><a href="http://www.mouv.fr" title="Mouv'" target="_blank">Mouv'</a></li><li><a href="http://www.maisondelaradio.fr" title="Maison de la Radio" target="_blank">Maison de la Radio</a></li><li><a href="http://mediateur.radiofrance.fr/" target="_blank">le Médiateur</a></li></ul></div><div class="header-main-top"><div class="identity"><a class="menu-burger" href="#" data-no-instant><div class="menu-burger-title">Menu</div><div class="menu-icon-bar"></div><div class="menu-icon-bar"></div><div class="menu-icon-bar"></div></a><a class="logo" href="/" title="accueil franceculture.fr" ><img src="/img/logo.png" alt="logo france culture"></a></div><div class="header-main-top-left"><ul><li><a href="#" class="niv1 header-item" data-sub-menu="actualites">Actualités</a><div class="header-sub-menu actualites"><div class="header-sub-menu-sub-links"><ul class="header-sub-menu-sub-links-list"><li class="header-sub-menu-sub-links-list-item"><a href="/dossiers/les-journaux-de-france-culture">Les journaux</a></li><li class="header-sub-menu-sub-links-list-item"><a href="/emissions/linvite-des-matins">L&#039;Invité des Matins</a></li><li class="header-sub-menu-sub-links-list-item"><a href="/geopolitique">Géopolitique</a></li><li class="header-sub-menu-sub-links-list-item"><a href="/politique">Politique</a></li><li class="header-sub-menu-sub-links-list-item"><a href="/economie">Économie</a></li></ul></div></div></li><li><a href="#" class="niv1 header-item" data-sub-menu="art_et_creation">Art et Création</a><div class="header-sub-menu art_et_creation"><div class="header-sub-menu-sub-links"><ul class="header-sub-menu-sub-links-list"><li class="header-sub-menu-sub-links-list-item"><a href="/cinema">Cinéma</a></li><li class="header-sub-menu-sub-links-list-item"><a href="/litterature">Littérature</a></li><li class="header-sub-menu-sub-links-list-item"><a href="/musique">Musique</a></li><li class="header-sub-menu-sub-links-list-item"><a href="/theatre">Théâtre</a></li></ul></div></div></li><li><a href="#" class="niv1 header-item" data-sub-menu="savoirs">Savoirs</a><div class="header-sub-menu savoirs"><div class="header-sub-menu-sub-links"><ul class="header-sub-menu-sub-links-list"><li class="header-sub-menu-sub-links-list-item"><a href="/histoire">Histoire</a></li><li class="header-sub-menu-sub-links-list-item"><a href="/philosophie">Philosophie</a></li><li class="header-sub-menu-sub-links-list-item"><a href="/sciences">Sciences</a></li></ul></div></div></li></ul><ul class="universe-links"><li><a class="header-item fictions" href="/fictions">Fictions</a></li><li><a class="header-item documentaires" href="/documentaires">Documentaires</a></li><li><a class="header-item conferences" href="/conferences">Conférences</a></li></ul></div><div class="header-main-top-right"><a class="header-item programs" href="/programmes"><span class="icon-program"></span>Programmes
+                </a><button class="header-item player-button direct_btn play"><span class="icon-play"></span><div class="text">Le direct</div></button><div class="header-item search-bind search"><form action="/recherche" class="search-bar" id="search-bar-header" method="GET"  data-autocomplete><div class="search-input"><label for="1421410470" class="search-input-label">Rechercher sur le site</label><input placeholder="Rechercher" autocomplete="off" class="search-bar-q-field" type="text" name="q" id="1421410470" /><div class="autocomplete element-hidden"><ul class="autocomplete-list list"></ul><a class="more-results" class="search-bar-submit" href=""><span class="icon icon-search"></span> Plus de résultats...</a></div></div><button type="button" class="search-bar-submit" ><span class="icon-search"></span><span class="search-input-label">Envoyer la recherche</span></button></form></div></div><div class="clearfix"></div></div><div class="menu-slid"><a class="close" href="#" data-no-instant><span class="icon-close"></span></a><form action="/recherche" class="search-bar" id="search-bar-menu" method="GET" data-prefill ><label for="123410842" class="search-input-label">Rechercher sur le site</label><input placeholder="Rechercher" autocomplete="off" class="search-bar-q-field" type="text" name="q" id="123410842" /><button type="button" class="search-bar-submit" ><span class="icon-search"></span><span class="search-input-label">Envoyer la recherche</span></button></form><ul><li><a href="/">Accueil</a></li></ul><ul><li><a href="/direct">Le direct</a></li><li><a href="/programmes">Programmes</a></li><li><a href="/emissions">Emissions et podcasts</a></li></ul><ul><li><a href="/fictions">Fictions</a></li><li><a href="/documentaires">Documentaires</a></li><li><a href="/conferences">Conférences</a></li><li><a href="/dossiers/france-culture-echos">France Culture Echos</a></li></ul><ul class="menu-social"><li><a href="https://www.facebook.com/franceculture/" data-share="Facebook" rel="nofollow" target="_blank"><span class="icon-facebook"></span><span class="invisible">Twitter</span></a></li><li><a href="https://twitter.com/franceculture" data-share="Twitter" rel="nofollow" target="_blank"><span class="icon-twitter"></span><span class="invisible">Twitter</span></a></li><li><a href="https://plus.google.com/+franceculture" data-share="Googleplus" rel="nofollow" target="_blank"><span class="icon-googleplus"></span><span class="invisible">Google +</span></a></li><li class="newsletter-button"><a href="/newsletter"><img src="/img/newsletter-mini.svg" alt=""><span class="mobile">Newsletters</span><span class="nomobile">S'abonner à nos newsletters</span></a></li></ul></div></header>
+
+
+
+    
+        
+                                                                                                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                    
+                                                                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+        
+        <div id="breadcrumb-wrapper">        <nav role="navigation" class="breadcrumb" itemscope itemtype="//schema.org/BreadcrumbList"><p id="breadcrumb-label">Vous êtes ici :</p><ol aria-labelledby="breadcrumb-label" class="breadcrumb-list"><li class="breadcrumb-list-item" temprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/" class="breadcrumb-list-item-link" itemprop="item" title="Accueil"><span class="breadcrumb-list-item-name" itemprop="name">Accueil</span><meta itemprop="position" content="1" /></a></li><li class="breadcrumb-list-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/emissions" class="breadcrumb-list-item-link" itemprop="item" title="Émissions"><span class="breadcrumb-list-item-name" itemprop="name">Émissions</span><meta itemprop="position" content="2" /></a></li><li class="breadcrumb-list-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/emissions/les-chemins-de-la-philosophie" class="breadcrumb-list-item-link" itemprop="item" title="Les Chemins de la philosophie"><span class="breadcrumb-list-item-name" itemprop="name">Les Chemins de la philosophie</span><meta itemprop="position" content="3" /></a></li><li class="breadcrumb-list-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span class="breadcrumb-list-item-name" itemprop="name">La liberté 1/5: Marx.</span><meta itemprop="position" content="4" /></li></ol></nav><!-- /.breadcrumb -->
+</div>
+
+        <div id="main-wrapper">
+
+            <div id="banner" class="">
+                            </div>
+            <div id="ad-top" class="container-fluid page-container ad-top">
+                <div class="pub-tete mbu1">
+                    <div class="first-ad-wrapper">
+    <div class="ad-wrapper">
+        <div>
+            <script type="text/javascript"></script>
+        </div>
+    </div>
+</div>
+
+                </div>
+            </div>
+
+            <div id="main-content" class="container-fluid page-container">
+                    <div id="heading-zone">
+            <div class="heading-page">
+
+                <div class="pre-title-zone">
+                                    <div class="infos">
+                                                    <a href="/emissions/les-chemins-de-la-philosophie" class="title-emission">
+                        Les Chemins de la philosophie
+                    </a>
+                
+                                                    <div class="author">
+                        <a href="/personne/raphael-enthoven">Raphaël Enthoven</a>
+                    </div>
+                
+            </div>
+        </div>
+
+                <div class="title-zone title-zone-diffusion">
+                        
+<div class="icon-wrapper">
+    <div class="player-inline play-wrapper play-wrapper-timeshift">
+
+        
+            <button
+              title="Réécouter La liberté 1/5: Marx."
+              class="player-button icon icon-play-circle btn-play timeshift"
+                            data-asset-title="La liberté 1/5: Marx."
+              data-asset-surtitle=""
+              data-timeshift="1243843200"
+              data-duration="3540"
+              data-title-link="/emissions/les-nouveaux-chemins-de-la-connaissance/la-liberte-15-marx"
+              data-surtitle-link="/emissions/les-chemins-de-la-philosophie"
+              data-business-reference="12410"
+              data-short-id="31ab21c6">
+                <span class="player-button-label">Réécouter La liberté 1/5: Marx.</span>
+            </button>
+
+            </div>
+</div>
+
+            <div class="block-title">
+                
+                    
+                
+                <h1 class="title">La liberté 1/5: Marx.</h1>
+            </div>
+
+        </div>
+    </div>
+    </div>
+    <div class="content primary-content" >
+            <div class="post-heading">
+        <div class="post-title-zone expression">
+
+            <div class="diffusion">
+                <div class="podcast-links icon-wrapper"><span class="icon icon-podcast-circle"></span><div class="link-podcast"><a target="_blank" href="https://itunes.apple.com/fr/podcast/les-chemins-de-la-philosophie/id390165399?mt=2&amp;uo=4" class="podcast">iTunes</a><span> / </span><a target="_blank" href="http://radiofrance-podcast.net/podcast09/rss_10467.xml" class="podcast">RSS</a></div></div>
+
+                                    <div class="icon-wrapper">
+                        <a href="#" class="embed">
+                            <span class="icon icon-embed-circle"></span>
+                            <span class="export-text">Exporter</span>
+                        </a>
+                    </div>
+                            </div>
+            
+                                <div class="date">
+                    <span class="icon icon-date"></span>
+                    <span class="inner">01.06.2009</span>
+                </div>
+
+                                <div class="duration">
+                    <span class="icon icon-timing"></span>
+                    <span class="inner">59 min</span>
+                </div>
+            
+        </div>
+                    <textarea class="expression-export-code" spellcheck="false" rows="3">&lt;iframe src=&quot;https://www.franceculture.fr/player/export-reecouter?content=267452e8-a110-102d-9c2c-fcfcfc001444&quot; width=&quot;481&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; height=&quot;137&quot;&gt;&lt;/iframe&gt;</textarea>
+            </div>
+
+    <article class="content-inner prose">
+        <div class="share-zone">
+            <div class="sharebar-mobile">
+                <div class="share-bar"><a href="https://www.facebook.com/sharer.php?u=https://www.franceculture.fr/emissions/les-nouveaux-chemins-de-la-connaissance/la-liberte-15-marx" data-share="Facebook" class="icon icon-facebook share" rel="nofollow" target="_blank"><span class="invisible">Twitter</span></a><a href="https://twitter.com/share?lang=fr&text=La liberté 1/5: Marx. via @franceculture&url=https://www.franceculture.fr/emissions/les-nouveaux-chemins-de-la-connaissance/la-liberte-15-marx&related=franceculture" data-share="Twitter" class="icon icon-twitter share" rel="nofollow" target="_blank"><span class="invisible">Twitter</span></a><a href="https://plus.google.com/share?hl=fr&url=https://www.franceculture.fr/emissions/les-nouveaux-chemins-de-la-connaissance/la-liberte-15-marx" data-share="Googleplus" class="icon icon-googleplus share" rel="nofollow" target="_blank"><span class="invisible">Google +</span></a><a href="mailto:?to=&subject=La liberté 1/5: Marx.&body= https://www.franceculture.fr/emissions/les-nouveaux-chemins-de-la-connaissance/la-liberte-15-marx" data-share="Mail" rel="nofollow" class="icon icon-email mail-share" target="_blank"><span class="invisible">Mail</span></a><a data-content="À découvrir sur France Culture :  https://www.franceculture.fr/emissions/les-nouveaux-chemins-de-la-connaissance/la-liberte-15-marx" href="sms:?body=À découvrir sur France Culture :  https://www.franceculture.fr/emissions/les-nouveaux-chemins-de-la-connaissance/la-liberte-15-marx" data-share="SMS" rel="nofollow" class="icon icon-sms sms-share" target="_blank"><span class="invisible">SMS</span></a></div>
+            </div>
+
+            <div class="pvu3">
+                <div class="first-ad-wrapper">
+    <div class="ad-wrapper">
+        <div>
+            <script type="text/javascript"></script>
+        </div>
+    </div>
+</div>
+
+            </div>
+
+            <div class="text-zone">
+
+                                <div class="intro">
+                    <div class="no-sound-available element-hidden"></div>
+                    <h2></h2>
+                </div>
+
+                                
+                                <p>&quot;Le royaume de la liberté commence seulement là ou l'on cesse de travailler par nécessité et opportunité imposée de l'extérieur; il se situe donc, par nature, au-delà de la sphère de production matérielle proprement dite&quot;. Marx, <em>Le Capital</em> , Livre III</p>
+
+                                <div class="expression-chronics">
+                                    </div>
+
+                                <div class="expression-guest">
+                                            <p class="title">Intervenants</p>
+                        <ul>
+                                                            <li>
+                                    <a class="author" href="/personne-jean-salem.html">Jean SALEM</a>
+                                     : Professeur d&#039;Histoire de la Philosophie à l&#039;Université Paris 1 / Panthéon-Sorbonne                                </li>
+                                                    </ul>
+                                    </div>
+
+                                <div class="newsletter-button"><a href="/newsletter">
+    <img src="/img/newsletter-mini.svg" alt="">
+    <span class="mobile">Newsletters</span>
+    <span class="nomobile">S'abonner à nos newsletters</span>
+</a>
+</div>
+
+                                
+                                <div id="taxonomy-links-list"><ul class="list"><li>Tags : </li><li><a href="/idees">Idées</a></li></ul></div>
+
+            </div>
+
+                        <div class="share-bar"><a href="https://www.facebook.com/sharer.php?u=https://www.franceculture.fr/emissions/les-nouveaux-chemins-de-la-connaissance/la-liberte-15-marx" data-share="Facebook" class="icon icon-facebook share" rel="nofollow" target="_blank"><span class="invisible">Twitter</span></a><a href="https://twitter.com/share?lang=fr&text=La liberté 1/5: Marx. via @franceculture&url=https://www.franceculture.fr/emissions/les-nouveaux-chemins-de-la-connaissance/la-liberte-15-marx&related=franceculture" data-share="Twitter" class="icon icon-twitter share" rel="nofollow" target="_blank"><span class="invisible">Twitter</span></a><a href="https://plus.google.com/share?hl=fr&url=https://www.franceculture.fr/emissions/les-nouveaux-chemins-de-la-connaissance/la-liberte-15-marx" data-share="Googleplus" class="icon icon-googleplus share" rel="nofollow" target="_blank"><span class="invisible">Google +</span></a><a href="mailto:?to=&subject=La liberté 1/5: Marx.&body= https://www.franceculture.fr/emissions/les-nouveaux-chemins-de-la-connaissance/la-liberte-15-marx" data-share="Mail" rel="nofollow" class="icon icon-email mail-share" target="_blank"><span class="invisible">Mail</span></a><a data-content="À découvrir sur France Culture :  https://www.franceculture.fr/emissions/les-nouveaux-chemins-de-la-connaissance/la-liberte-15-marx" href="sms:?body=À découvrir sur France Culture :  https://www.franceculture.fr/emissions/les-nouveaux-chemins-de-la-connaissance/la-liberte-15-marx" data-share="SMS" rel="nofollow" class="icon icon-sms sms-share" target="_blank"><span class="invisible">SMS</span></a></div>
+        </div>
+
+                
+
+                        <div class="OUTBRAIN" data-src="https://www.franceculture.fr/emissions/les-nouveaux-chemins-de-la-connaissance/la-liberte-15-marx" data-widget-id="AR_1" data-ob-template="FranceCulture" ></div><div class="OUTBRAIN" data-src="https://www.franceculture.fr/emissions/les-nouveaux-chemins-de-la-connaissance/la-liberte-15-marx" data-widget-id="AR_2" data-ob-template="FranceCulture" ></div><script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script>
+
+                
+    </article>
+
+    </div>
+
+            <div id="sidebar">
+            <div class="no-mobile">
+                <div class="box-direct">
+    <div class="title">Le direct</div>
+    <div class="box-buttons">
+        <button title="Écouter le direct" class="player-button play direct_btn">
+            <span class="icon-play"></span>
+            <span class="player-button-label">Écouter le direct</span>
+        </button>
+    </div>
+    <div class="box-content">
+        <div class="duration pre-text"></div>
+        <div class="surtitle pre-text"></div>
+        <div class="text">Le direct</div>
+    </div>
+</div>
+
+            </div>
+
+                <div class="pvu1">
+        <div class="first-ad-wrapper">
+    <div class="ad-wrapper">
+        <div>
+            <script type="text/javascript"></script>
+        </div>
+    </div>
+</div>
+
+    </div>
+
+                <div class="bloc no-mobile">
+        <div class="box-social-links">
+            <div class="social-links"><p class="title">Suivez France Culture </p><a title="Facebook" class="icon-link facebook" target="_blank" href="https://www.facebook.com/franceculture/"
+            ><span class="icon-facebook"></span></a><a title="Twitter" class="icon-link twitter" target="_blank" href="https://twitter.com/franceculture"
+            ><span class="icon-twitter"></span></a></div>
+            <div class="meanl2">
+                <a class="newsletter" href="/newsletter">
+    <div class="visuel">
+        <img src="/img/newsletter-big.svg" alt="newsletter" width="20" height="20">
+    </div>
+    <div class="text">
+        <div class="h1">Abonnez-vous à nos newsletters</div>
+        <p class="blabla">Recevez, au rythme voulu, le meilleur de France Culture</p>
+        <p>
+            <span class="calltoaction">Je m'abonne !</span>
+        </p>
+    </div>
+</a>
+            </div>
+        </div>
+    </div>
+
+            
+
+        <div class="most-viewed">
+                    </div>
+    
+    <div class="bloc team no-mobile"><p class="title">L'équipe</p><div class="box-staff"><div class="role">Production</div><a href="/personne/raphael-enthoven">Raphaël Enthoven</a></div><div class="box-social"><div class="social-links"><div class="title">Suivre l'émission</div><a title="Facebook" class="icon-link facebook follow" target="_blank" href="https://www.facebook.com/LesNouveauxCheminsDeLaConnaissanceOfficiel"
+            ><span class="icon-facebook"></span></a><a title="Twitter" class="icon-link twitter follow" target="_blank" href="https://twitter.com/lesncc?lang=fr"
+            ><span class="icon-twitter"></span></a></div><div class="contact-links"><div class="title">Contacter l'émission</div><a title="Mail" class="icon-link mail follow" target="_blank" href="mailto: lescheminsdelaconnaissance@radiofrance.com"
+                    data-share="Mail"
+                    rel="nofollow"
+            ><span class="icon-email"></span></a></div></div></div>
+
+                <div class="pvb2">
+        <div class="first-ad-wrapper">
+    <div class="ad-wrapper">
+        <div>
+            <script type="text/javascript"></script>
+        </div>
+    </div>
+</div>
+
+    </div>
+        </div>
+                </div>
+            <div id="loader"></div>
+
+                            <footer id="main-footer">
+    <div class="container-footer">
+        <div class="col1">
+            <img src="/img/logo_franceculture.png" alt="logo france culture" class="logo">
+        </div>
+        <div class="col2">
+            <div class="bloc generic">
+                <a href="/presse">Presse et communiqués</a>
+                <a target="_blank" href="http://editions.radiofrance.fr/category/collections/france_culture_papiers/">France Culture Papiers</a>
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="col1">
+            <div class="bloc listen">
+                <div class="titlebloc">Écouter</div>
+                <a href="/direct">
+                    <span class="icon-play"></span> Direct
+                </a>
+                <a href="/programmes">
+                    <span class="icon-grid-of-the-day"></span> Grille
+                </a>
+                <a href="/liste-des-emissions">
+                    <span class="icon-podcast"></span> Émissions et podcasts
+                </a>
+                <a target="_blank" href="http://www.radiofrance.fr/boite-a-outils/frequences">
+                    <span class="icon-france"></span> Fréquences
+                </a>
+                <a target="_blank" href="http://www.radiofrance.fr/espace-pro/appli-rf-direct/">
+                    <span class="icon-apps"></span> Applications
+                </a>
+                <a target="_blank" href="http://www.radiofrance.fr/boite-a-outils/faq/">
+                    <span class="icon-listen-help"></span> Aide à l'écoute
+                </a>
+            </div>
+            <div class="bloc contact">
+                <div class="titlebloc">Contact</div>
+                <div class="socialnetwork">
+                    <a target="_blank" href="https://www.facebook.com/franceculture/">
+                        <span class="icon-facebook"></span>
+                        <span class="name">Facebook</span>
+                    </a>
+                    <a target="_blank" href="https://twitter.com/franceculture">
+                        <span class="icon-twitter"></span>
+                        <span class="name">Twitter</span>
+                    </a>
+                    <a target="_blank" href="https://plus.google.com/+franceculture">
+                        <span class="icon-googleplus"></span>
+                        <span class="name">Google+</span>
+                    </a>
+                </div>
+
+                <a href="/newsletter">S'abonner à la newsletter</a>
+                <a target="_blank" href="http://espacepublic.radiofrance.fr/">Contact du médiateur</a>
+            </div>
+        </div>
+        <div class="col2">
+            <div class="bloc thematic">
+                <div class="titlebloc">Thématiques</div>
+                <div class="theme">
+                    <a href="/actualite">Actualité</a>
+
+                    <div class="sublist">
+                      <a href="/droit-justice">Droit et justice</a>,
+                      <a href="/economie">Économie</a>,
+                      <a href="/education">Éducation</a>,
+                      <a href="/environnement">Environnement</a>,
+                      <a href="/geopolitique">Géopolitique</a>,
+                      <a href="/medias">Médias</a>,
+                      <a href="/numerique">Numérique</a>,
+                      <a href="/politique">Politique</a>,
+                      <a href="/religion-et-spiritualite">Religion et spiritualité</a>,
+                      <a href="/societe">Société</a>
+                    </div>
+                </div>
+                <div class="theme">
+                    <span class="fake-link">Savoirs</span>
+
+                    <div class="sublist">
+                        <a href="/geographie">Géographie</a>,
+                        <a href="/histoire">Histoire</a>,
+                        <a href="/philosophie">Philosophie</a>,
+                        <a href="/psychanalyse">Psychanalyse</a>,
+                        <a href="/sciences">Sciences</a>,
+                        <a href="/sociologie">Sociologie</a>
+                    </div>
+                </div>
+                <div class="theme">
+                    <span class="fake-link">Art et Création</span>
+
+                    <div class="sublist">
+                      <a href="/architecture">architecture</a>,
+                      <a href="/bande-dessinee">BD</a>,
+                      <a href="/cinema">cinéma</a>,
+                      <a href="/theatre">théâtre</a>,
+                      <a href="/creation-sonore">création sonore</a>,
+                      <a href="/danse">danse</a>,
+                      <a href="/dessin">dessin</a>,
+                      <a href="/design">design</a>,
+                      <a href="/gastronomie">gastronomie</a>,
+                      <a href="/litterature">littérature</a>,
+                      <a href="/musique">musique</a>,
+                      <a href="/peinture">peinture</a>,
+                      <a href="/photographie">photographie</a>,
+                      <a href="/sculpture">sculpture</a>,
+                      <a href="/theatre">théâtre</a>,
+                      <a href="/video">vidéo</a>
+                    </div>
+                </div>
+            </div>
+            <div class="bloc index">
+                <div class="titlebloc">Index</div>
+                <a href="/series">Toutes les séries</a>
+                <a href="/dossiers">Tous les dossiers</a>
+                <a href="/theme">Tous les tags</a>
+                <a href="/personalites">Toutes les personnalités</a>
+                <a href="/liste-des-emissions">Toutes les émissions</a>
+                <a href="/oeuvres">Toutes les œuvres</a>
+            </div>
+            <div class="bloc univers">
+                <div class="titlebloc">Nos univers</div>
+                <a href="/fictions">Fictions</a>
+                <a href="/documentaires">Documentaire</a>
+                <a href="/conferences">Conférences</a>
+            </div>
+            <div class="bloc evenements">
+                <div class="titlebloc">Événements</div>
+                <a href="/evenements">Événements France Culture</a>
+                <a href="/evenements/partenaire">Événements Partenaires</a>
+            </div>
+        </div>
+    </div>
+    <div class="foot-group">
+        <a target="_blank" href="http://editions.radiofrance.fr/category/chaines/france-culture/">Éditions</a>
+        <a target="_blank" href="http://espacepublic.radiofrance.fr/">médiateur</a>
+        <a target="_blank" href="http://www.radiofrance.fr/mentions-legales-radio-france">mentions légales</a>
+        <a target="_blank" href="http://www.radiofrancepublicite.fr/">annonceurs</a>
+        <a target="_blank" href="http://www.radiofrance.fr/boite-a-outils/frequences/">fréquences</a>
+        <a target="_blank" rel="nofollow" href="http://www.ojd.com/Marque/marque-france-culture">OJD</a>
+    </div>
+    <div class="ojd-bloc">
+        <p>France Culture &copy; 2017</p>
+
+        <p class="ojd">La fréquentation de France Culture est certifiée par l'OJD</p>
+    </div>
+</footer>
+
+                    </div>
+
+        <div id="player" class="player">
+    <div class="player_wrapper" style="overflow: hidden; height: 1px; width: 1px">
+        <div id="audio"
+            data-url-live="http://direct.franceculture.fr/live/franceculture-midfi.mp3"
+            data-url-TS="http://direct.franceculture.fr/ts/franceculture-midfi.mp3"
+            data-xtn2="4"
+            data-xtsite="539129"
+            data-xiti-localisation="int"
+            data-url-program="/programmes?xmlHttpRequest=1"
+            data-name="lecteur-commun"></div>
+    </div>
+    <button class="player-button play" data-player-play>
+        <span class="icon-play"></span>
+        <span class="player-button-label">Play / pause</span>
+    </button>
+    <div class="progress-wrapper">
+        <div class="progress-bar">
+            <div class="bar-placeholder">
+                <div class="bar no-drag" style="width: 0%">
+                    <div class="timebox">
+                        <span class="timebox-content"></span>
+                        <div class="bottom"></div>
+                    </div>
+                    <div class="handle"> </div>
+                    <div class="playhead"> </div>
+                </div>
+            </div>
+        </div>
+        <div class="progress-static">
+            <div id="information">
+                <span id="player-mode">Ecouter le direct</span>
+                <span class="space-dot"> • </span>
+                <span class="surtitle"></span>
+            </div>
+            <div class="time"></div>
+            <div class="title">Le direct</div>
+        </div>
+    </div>
+    <div class="volume-wrapper">
+        <a class="player-button mute"><span class="icon-volume-on"></span></a>
+        <div class="volume-slider-wrapper">
+            <div class="volume-slider">
+                <div class="level"></div>
+            </div>
+        </div>
+    </div>
+
+    <a class="player-button back"><span class="icon-back"></span></a>
+</div>
+
+
+        <div class="cookie-banner"><div class="cookie-wrapper"><div class="cookie-content"><button class="cookie-close">Fermer X</button><p>En poursuivant votre navigation sur le site, vous acceptez l’utilisation des cookies 
+pour vous proposer des contenus et services adaptés à vos centres d’intérêt.</p><a href="http://www.radiofrance.fr/politique-d-utilisation-des-cookies-sur-les-sites-internet-du-groupe-radio-france" target="_blank">En savoir plus et gérer ces paramètres.</a></div></div></div>
+
+        <script src="/js/vendor_main-e239d90dd9.min.js" data-no-instant></script>
+        <script src="/js/main-6d2318a17e.min.js" data-no-instant></script>
+
+        <div id="ad-init">
+                <div class="ad-wrapper">
+    <script type="text/javascript">
+        'object' === typeof window.sas && window.sas.cmd instanceof Array && window.sas.cmd.push(function() {
+           window.sas.call("onecall", {
+              siteId:        70659,
+              pageId:        537616,
+              formatId:      '28988, 28999, 29000, 28993, 28992',
+              target:        ''
+           });
+         });
+
+        window.sasFormats = {};
+
+                  window.sasFormats['sas_28988'] = function() {
+            window.sas.render(28988);
+          };
+                  window.sasFormats['sas_28999'] = function() {
+            window.sas.render(28999);
+          };
+                  window.sasFormats['sas_29000'] = function() {
+            window.sas.render(29000);
+          };
+                  window.sasFormats['sas_28993'] = function() {
+            window.sas.render(28993);
+          };
+                  window.sasFormats['sas_28992'] = function() {
+            window.sas.render(28992);
+          };
+            </script>
+</div>
+
+
+        </div>
+
+        <div id="marking-wrapper">
+                <script type="text/javascript">
+    xtsd = window.location.protocol === 'https:' ? "https://logs1286" : "http://logc286";
+    xtn2 = "5";        //level 2 site
+    xtpage = "Emissions::Les_Chemins_de_la_philosophie::Diffusions::diffusion_-_La_liberte_1_5_Marx__-_31ab21c6";      //page name (with the use of :: to create chapters)
+
+    //customised indicators
+                                                                                                                                xt_multc = "&x4=5&x5=Les_Chemins_de_la_philosophie&x9=20170215&x10=20160122";
+
+    window.xtparam = "&ac=&an=" + xt_multc;
+
+        
+            window.xtparam += "&xt_tags=[Idees]"; // result page number (0 if none)
+    
+    // Reset xt_clic share slugs
+    atinternet_share = "Partages::Diffusions::La_liberte_1_5_Marx__-_31ab21c6";
+    //-->
+</script>
+<noscript>
+        <img width="1" height="1" src="http://logc286.xiti.com/hit.xiti?s=539129&s2=5&p=Emissions::Les_Chemins_de_la_philosophie::Diffusions::diffusion_-_La_liberte_1_5_Marx__-_31ab21c6&x4=5&x9=20170215&x5=Les_Chemins_de_la_philosophie&x9=20170215&xt_mtcl=&xt_npg=&xt_tags=[Idees]&di=&ac=&an=&" >
+</noscript>
+
+
+            <script type="text/javascript">
+    atinternet_is_mobile = function () {
+        if (navigator.userAgent.match(/Android/i)
+                || navigator.userAgent.match(/webOS/i)
+                || navigator.userAgent.match(/iPhone/i)
+                || navigator.userAgent.match(/iPad/i)
+                || navigator.userAgent.match(/iPod/i)
+                || navigator.userAgent.match(/\biOS\b/i)
+                || navigator.userAgent.match(/Mobile Safari/i)
+                || navigator.userAgent.match(/\bBlackBerry\b/i)
+                || navigator.userAgent.match(/\bBada\b/i)
+                || navigator.userAgent.match(/\bNetFront\b/i)
+                || navigator.userAgent.match(/Opera mini/i)
+                || navigator.userAgent.match(/Opera Mobi/i)
+                || navigator.userAgent.match(/Windows RT/i)
+                || navigator.userAgent.match(/\bIEMobile\b/i)
+                || navigator.userAgent.match(/Windows Phone/i)
+                || navigator.userAgent.match(/Nintendo Wii/i)
+                || navigator.userAgent.match(/PS3|PLAYSTATION 3/i)
+                || navigator.userAgent.match(/PSP|PlayStation Portable/i)
+        ) {
+            return true;
+        }
+        else {
+            return false;
+        }
+    };
+
+    atinternet_share_onclick = function (media) {
+        if ('function' != typeof xt_med) {
+            console.log('[ATINTERNET ERROR] No xt_med support: xtcore library probably not loaded');
+            return;
+        }
+        // get data from $share value in ViewObject
+        xt_med('C', xtn2, atinternet_share + '::' + media, 'A');
+    };
+
+    $('body').on('click', '.share-bar a', function () {
+        atinternet_share_onclick($(this).data('share'));
+    });
+
+        xtsite = atinternet_is_mobile() ? "549486" : "539129"; //site number
+        xtnv = document;  //parent.document or top.document or document
+
+    if (!document.getElementById('atscriptid')) {
+        var at = document.createElement('script');
+        at.type = 'text/javascript';
+        at.id = "atscriptid";
+        at.async = true;
+        at.src = "/static/vendor/js/xtcore-4.7.js";
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] || document.getElementsByTagName('script')[0].parentNode).insertBefore(at, null);
+    }
+
+</script>
+
+        </div>
+
+                    <script>
+        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+                n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+            n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+                document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    </script><noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1168763269815108&ev=PageView&noscript=1"/></noscript>
+
+            <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-86344736-1', 'auto');
+    </script>
+
+            <script>
+        (function (i, s, o, g, r, a, m) {
+        i[r] = i[r] || [], i["abtiming"] = 1 * new Date();
+        a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, "script", "//try.abtasty.com/99138c3efa3eb62fee8e958d9490613c.js", "_abtasty");
+    </script>
+
+            <script data-no-instant>
+        !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+        },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+        a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+
+        twq('init','nvp2l');
+    </script>
+
+            <script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion_async.js" charset="utf-8" data-no-instant></script><script type="text/javascript">
+        /* <![CDATA[ */
+        window.google_trackConversion({
+          google_conversion_id: 998626353,
+          google_custom_params: window.google_tag_params,
+          google_remarketing_only: true
+        });
+        //]]></script>
+
+            <div id="fb-root"></div>
+            <script data-no-instant>
+                (function(d, s, id) {
+                    var js, fjs = d.getElementsByTagName(s)[0];
+                    if (d.getElementById(id)) return;
+                    js = d.createElement(s); js.id = id;
+                    js.async=true; js.src = "//connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.3&appId=1607849499491866";
+                    fjs.parentNode.insertBefore(js, fjs);
+                }(document, 'script', 'facebook-jssdk'));
+            </script>
+            <script data-no-instant>
+                (function() { // DON'T EDIT BELOW THIS LINE
+                    var d = document, s = d.createElement('script');
+                    s.src = '//franceculture.disqus.com/embed.js';
+                    s.setAttribute('data-timestamp', +new Date());
+                    (d.head || d.body).appendChild(s);
+                })();
+            </script>
+
+                        <div id="nugg.ad">
+                <script type="text/javascript" data-no-instant>
+                    var n_pbt = ""; // predefined response var name provided by nugg.ad
+                    var nuggAIArray = '';
+                    var nuggrid = encodeURIComponent(top.location.href); //for automatic referer information
+                    var nuggtg = encodeURIComponent("CONTENT TAG"); //for explicit content information provided by customer
+                    var nuggn = 188935317;     //provided by nugg.ad
+                    var nuggsid = 384573882;   //provided by nugg.ad
+                    var nuggsub = "asqexpress";  //provided by nugg.ad
+
+                    var nuggscr = document.createElement('script');nuggscr.type = 'text/javascript';
+                    nuggscr.src ='//' + nuggsub + '.nuggad.net/rc?nuggn=' + nuggn + '&nuggsid=' + nuggsid + '&nuggrid=' + nuggrid + '&nuggtg=' + nuggtg;
+                    var n = document.getElementsByTagName('script')[0]; n.parentNode.insertBefore(nuggscr, n);
+                </script>
+            </div>
+        
+    </body>
+</html>

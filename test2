@@ -1,0 +1,713 @@
+ <!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/favicons/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/favicons/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/favicons/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/favicons/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/favicons/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/favicons/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicons/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/favicons/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="canonical" href="https://www.franceculture.fr/emissions/les-pieds-sur-terre/la-cantine"/>
+<meta name="description" content="En France, près de 70 communes interdisent la cantine aux enfants dont les parents sont au chômage. D’autres décident de mettre fin aux menus de substitution au porc. Discriminations à l’école.">
+<link rel="publisher" href="https://plus.google.com/109041382134244612447"/>
+<title>A la cantine</title>
+<meta property="og:url" content="https://www.franceculture.fr/emissions/les-pieds-sur-terre/la-cantine"/>
+<meta property="og:title" content="A la cantine"/>
+<meta property="og:description" content="En France, près de 70 communes interdisent la cantine aux enfants dont les parents sont au chômage. D’autres décident de mettre fin aux menus de substitution au porc. Discriminations à l’école."/>
+<meta property="og:type" content="article"/>
+<meta property="og:locale" content="fr_FR"/>
+<meta property="og:site_name" content="France Culture"/>
+<meta property="og:image" content="https://s3-eu-west-1.amazonaws.com/cruiser-production/2016/11/069f2c07-a8c7-493f-a8fb-fa69ec8c8025/600x337_cantine.jpg"/>
+<meta property="og:image:type" content="image/jpeg"/>
+<meta property="og:image:width" content="600"/>
+<meta property="og:image:height" content="337"/>
+<meta property="fb:app_id" content="1607849499491866"/>
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@franceculture">
+<meta name="twitter:title" content="A la cantine">
+<meta name="twitter:url" content="https://www.franceculture.fr/emissions/les-pieds-sur-terre/la-cantine">
+<meta name="twitter:description" content="En France, près de 70 communes interdisent la cantine aux enfants dont les parents sont au chômage. D’autres décident de mettre fin aux menus de substitution au porc. Discriminations à l’école.">
+<meta name="twitter:image" content="https://s3-eu-west-1.amazonaws.com/cruiser-production/2016/11/069f2c07-a8c7-493f-a8fb-fa69ec8c8025/600x337_cantine.jpg">
+<meta property="article_short_title" content="true"/>
+<link rel="stylesheet" href="/css/A.main-c927ed0aab.min.css.pagespeed.cf.nzHEEqT-9F.css">
+<script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');</script>
+<noscript>
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1168763269815108&ev=PageView&noscript=1"/>
+</noscript>
+<script src='//www6.smartadserver.com/config.js?nwid=798' type="text/javascript" data-no-instant></script>
+<script type="text/javascript" data-no-instant>'object'===typeof window.sas&&window.sas.cmd instanceof Array&&window.sas.cmd.push(function(){window.sas.setup({domain:'//www6.smartadserver.com',async:true,renderMode:1});});</script>
+<link rel="dns-prefetch" href="//widgets.outbrain.com"></head>
+<body id="body" class="universe-content universe-content-17c1f4e8-d5b4-400d-b0a9-32e7ab3c3282" itemscope itemtype="http://schema.org/WebPage">
+<header id="header-principal">
+<div class="metanav" data-metanav>
+<ul>
+<li><a href="http://www.radiofrance.fr" title="radio france" target="_blank">Radio France</a></li>
+<li><a href="//www.franceinter.fr" title="France Inter" target="_blank">France Inter</a></li>
+<li><a href="http://www.francetvinfo.fr" title="franceinfo" target="_blank">franceinfo</a></li>
+<li><a href="//www.francebleu.fr" title="France Bleu" target="_blank">France Bleu</a></li>
+<li><a href="http://www.francemusique.fr" title="France Musique" target="_blank">France Musique</a></li>
+<li><a href="http://www.fipradio.fr" title="Fip" target="_blank">Fip</a></li>
+<li><a href="http://www.mouv.fr" title="Mouv'" target="_blank">Mouv'</a></li>
+<li><a href="http://www.maisondelaradio.fr" title="Maison de la Radio" target="_blank">Maison de la Radio</a></li>
+<li><a href="http://mediateur.radiofrance.fr/" target="_blank">le Médiateur</a></li>
+</ul>
+</div>
+<div class="heading">
+<div class="identity">
+<a class="hamburger" href="#" data-no-instant>
+<span class="icon icon-menu"></span>
+<span class="title">Menu</span>
+</a>
+<a class="logo" href="/" title="accueil franceculture.fr">
+<img class="top-logo" src="data:image/png;base64,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" alt="logo france culture">
+<img class="sticky-logo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAAdCAMAAAAD4rtXAAAAPFBMVEX///////////////////////////////////////////////////////////////////////////////8gsV51AAAAE3RSTlMAECAwQFBYYGRwfICQoLDA0ODwrj7CQQAAAhZJREFUSMet1dGCmyAQRuEfGUvtiIOc93/XXqAm6abd3TTcSBLzCTPDKH1zpDnr3WPuxNvRoJd3m2WnlTWs2Ry9ecoRa6+mVPdeJ6Xaw15YKETQWWAHNwBCDWBXg079LpobNQesP+qWnGawFCgwF/g1Pr2wVFdQJQ8AAxk4SFkOAPNrqMvppd6jKbmvMNti02eJcffyDA32KS50htrgJ7Tl85UGEJKmLWK9RyvQL1QBUFUBNn0RteOq4qbiprRsnt0nd03uUqm16Lp8DS0n+p4DNDB/Ac2Lu2dJSmZmSZKZ2XSgZhVoZlnZzCZJ2cyyJjPLWtwkKbv7cmU+x6ivlkfwMEkAfqCcIxSAX1twICq4lPdxS03D7Od/en4B7YBrvu5pSVK6TNhfQAE8daC770dJ+cEXgPIUNWtnTP+CVqBP0gQwSTtAltSA9Sl6q4Kn6CJ1GN1p/J6A0VjMi+UX0FXKAHtERB9b46EEX0DPmrmL/P+j+ohmgC5Js9tt+9P3Ub87TRwJ036fqPkf6KqRiRuaOBNVYvMibQBb0norqaqlf0T3dE1sf0QHkqXUxkPv49GPhR/n4YZu47AcjbOfsbtQA+ir70e9jiVeb5c4/Qd0Ob69Jv0RvUdGQ12OJ/f51glqPKCpHegxaesf6CMiSdOyRdQy+su0Rmym4u52e0elskVsLqUlIpZk7l5k7n4mPS1bxFaSpN+DDk42RY1cYwAAAABJRU5ErkJggg==" alt="logo france culture">
+</a>
+</div>
+<div class="menu">
+<ul class="program">
+<li class="niv1">
+<a href="/programmes">
+<span class="icon-program"></span>Programmes
+</a>
+</li>
+</ul>
+<ul>
+<li class="niv2">
+<a href="#" class="niv1" data-titre-niv2>Actualités</a>
+<ul class="actu">
+<li><a href="/dossiers/les-journaux-de-france-culture">Les journaux</a></li>
+<li><a href="/emissions/les-matins">Les Matins</a></li>
+<li><a href="/geopolitique">Géopolitique</a></li>
+<li><a href="/politique">Politique</a></li>
+<li><a href="/economie">Économie</a></li>
+</ul>
+</li>
+<li class="niv2">
+<a href="#" class="niv1" data-titre-niv2>Art et Création</a>
+<ul class="art">
+<li><a href="/cinema">Cinéma</a></li>
+<li><a href="/litterature">Littérature</a></li>
+<li><a href="/musique">Musique</a></li>
+<li><a href="/theatre">Théâtre</a></li>
+</ul>
+</li>
+<li class="niv2">
+<a href="#" class="niv1" data-titre-niv2>Savoirs</a>
+<ul class="savoir">
+<li><a href="/histoire">Histoire</a></li>
+<li><a href="/philosophie">Philosophie</a></li>
+<li><a href="/sciences">Sciences</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="niv1"><a href="/fictions">Fictions</a></li>
+<li class="niv1"><a href="/documentaires">Documentaires</a></li>
+<li class="niv1"><a href="/conferences">Conférences</a></li>
+</ul>
+</div>
+<div class="search-bind search">
+<form action="/recherche" class="search-bar" id="search-bar-header" method="GET" data-autocomplete>
+<div class="search-input">
+<input placeholder="Rechercher" autocomplete="off" class="search-bar-q-field" type="text" name="q"/>
+<div class="autocomplete element-hidden">
+<ul class="autocomplete-list list"></ul>
+<a class="more-results" class="search-bar-submit" href=""><span class="icon icon-search"></span> Plus de résultats...</a>
+</div>
+</div>
+<button type="button" class="search-bar-submit"><span class="icon-search"></span></button>
+</form>
+</div>
+<button class="player-button direct_btn play">
+<span class="icon-play"></span><div class="text">Le direct</div>
+</button>
+</div>
+<div class="menu-slid">
+<a class="close" href="#"><span class="icon-close"></span></a>
+<form action="/recherche" class="search-bar" id="search-bar-menu" method="GET" data-prefill>
+<input placeholder="Rechercher" autocomplete="off" class="search-bar-q-field" type="text" name="q"/>
+<button type="button" class="search-bar-submit"><span class="icon-search"></span></button>
+</form>
+<ul>
+<li><a href="/">Accueil</a></li>
+</ul>
+<ul>
+<li><a href="/direct">Le direct</a></li>
+<li><a href="/programmes">Programmes</a></li>
+<li><a href="/emissions">Emissions et podcasts</a></li>
+</ul>
+<ul>
+<li><a href="/fictions">Fictions</a></li>
+<li><a href="/documentaires">Documentaires</a></li>
+<li><a href="/conferences">Conférences</a></li>
+<li><a href="/dossiers/france-culture-echos">France Culture Echos</a></li>
+</ul>
+<ul class="menu-social">
+<li>
+<a href="https://www.facebook.com/franceculture/" data-share="Facebook" rel="nofollow" target="_blank">
+<span class="icon-facebook"></span>
+<span class="invisible">Twitter</span>
+</a>
+</li>
+<li>
+<a href="https://twitter.com/franceculture" data-share="Twitter" rel="nofollow" target="_blank">
+<span class="icon-twitter"></span>
+<span class="invisible">Twitter</span>
+</a>
+</li>
+<li>
+<a href="https://plus.google.com/+franceculture" data-share="Googleplus" rel="nofollow" target="_blank">
+<span class="icon-googleplus"></span>
+<span class="invisible">Google +</span>
+</a>
+</li>
+<li class="newsletter-button">
+<a href="/newsletter">
+<img src="/img/newsletter-mini.svg" alt="">
+<span class="mobile">Newsletters</span>
+<span class="nomobile">S'abonner à nos newsletters</span>
+</a>
+</li>
+</ul>
+<ul>
+<li><a href="/actualite">Actualités</a></li>
+<li><a href="/idees">Idées</a></li>
+<li class="niv2">
+<a href="#" data-titre-niv2>Art et Création
+<span class="icon-plus"></span>
+<span class="icon-moins">-</span>
+</a>
+<ul>
+<li><a href="/architecture">Architecture</a></li>
+<li><a href="/bande-dessinee">BD</a></li>
+<li><a href="/cinema">Cinéma</a></li>
+<li><a href="/creation-sonore">Création sonore</a></li>
+<li><a href="/danse">Danse</a></li>
+<li><a href="/dessin">Dessin</a></li>
+<li><a href="/design">Design</a></li>
+<li><a href="/gastronomie">Gastronomie</a></li>
+<li><a href="/litterature">Littérature</a></li>
+<li><a href="/musique">Musique</a></li>
+<li><a href="/peinture">Peinture</a></li>
+<li><a href="/photographie">Photographie</a></li>
+<li><a href="/sculpture">Sculpture</a></li>
+<li><a href="/theatre">Théâtre</a></li>
+<li><a href="/video">Vidéo</a></li>
+</ul>
+</li>
+<li><a href="/droit-justice">Droit &amp; justice</a></li>
+<li><a href="/economie">Économie</a></li>
+<li><a href="/education">Éducation</a></li>
+<li><a href="/environnement">Environnement</a></li>
+<li><a href="/geographie">Géographie</a></li>
+<li><a href="/geopolitique">Géopolitique</a></li>
+<li><a href="/histoire">Histoire</a></li>
+<li><a href="/medias">Médias</a></li>
+<li><a href="/numerique">Numérique</a></li>
+<li><a href="/philosophie">Philosophie</a></li>
+<li><a href="/politique">Politique</a></li>
+<li><a href="/psychanalyse">Psychanalyse</a></li>
+<li><a href="/religion-et-spiritualite">Religion et spiritualité</a></li>
+<li><a href="/sciences">Sciences</a></li>
+<li><a href="/sciences-du-langage">Sciences du langage</a></li>
+<li><a href="/societe">Société</a></li>
+<li><a href="/sociologie">Sociologie</a></li>
+</ul>
+</div>
+</header>
+<div id="main-wrapper">
+<div id="banner" class="">
+</div>
+<div id="ad-top" class="container-fluid page-container ad-top">
+<div class="pub-tete mbu1">
+<div class="first-ad-wrapper">
+<div class="ad-wrapper">
+<div>
+<script type="text/javascript"></script>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="main-content" class="container-fluid page-container">
+<div id="heading-zone">
+<div class="heading-page">
+<div class="breadcrumb" itemscope itemtype="//schema.org/BreadcrumbList">
+<a href="/">accueil</a> •
+<a href="/emissions" itemprop="itemListElement">Émissions</a> •
+<a href="/emissions/les-pieds-sur-terre" itemprop="itemListElement">Les Pieds sur terre</a> •
+A la cantine
+</div>
+<div class="pre-title-zone with-universe">
+<a class="title-universe" href="/documentaires">Documentaires</a>
+<div class="infos">
+<a href="/emissions/les-pieds-sur-terre" class="title-emission">
+Les Pieds sur terre
+</a>
+<div class="author">
+<a href="/personne-sonia-kronlund.html">Sonia Kronlund</a>
+</div>
+</div>
+</div>
+<div class="title-zone title-zone-diffusion">
+<div class="icon-wrapper">
+<div class="player-inline play-wrapper play-wrapper-aod">
+<button class="player-button icon icon-play-circle btn-play aod" data-asset-xtname="Extrait::A_la_cantine::A_la_cantine" data-asset-title="A la cantine" data-asset-surtitle="Les Pieds sur terre" data-asset-source="http://media.radiofrance-podcast.net/podcast09/10078-04.11.2016-ITEMA_21125193-0.mp3" data-duration="1680" data-title-link="/emissions/les-pieds-sur-terre/la-cantine" data-surtitle-link="/emissions/les-pieds-sur-terre" data-business-reference="6612" data-short-id="b8a231d1" data-clip-type="reecoute">
+</button>
+</div>
+</div>
+<div class="block-title">
+<h1 class="title">A la cantine</h1>
+</div>
+</div>
+</div>
+</div>
+<div class="content primary-content">
+<div class="post-heading">
+<div class="post-title-zone expression">
+<div class="diffusion">
+<div class="icon-wrapper">
+<span class="icon icon-podcast-circle"></span>
+<div class="link-podcast">
+<a target="_blank" href="https://itunes.apple.com/fr/podcast/les-pieds-sur-terre/id160879442?mt=2&amp;uo=4" class="podcast">iTunes</a><span> / </span>
+<a target="_blank" href="http://radiofrance-podcast.net/podcast09/rss_10078.xml" class="podcast">RSS</a>
+</div>
+</div>
+<div class="icon-wrapper">
+<a href="#" class="embed">
+<span class="icon icon-embed-circle"></span>
+<span class="export-text">Exporter</span>
+</a>
+</div>
+</div>
+<div class="date">
+<span class="icon icon-date"></span>
+<span class="inner">04.11.2016</span>
+</div>
+<div class="duration">
+<span class="icon icon-timing"></span>
+<span class="inner">28 min</span>
+</div>
+</div>
+<textarea class="expression-export-code" spellcheck="false" rows="3">&lt;iframe src=&quot;https://www.franceculture.fr/player/export-reecouter?content=a435cc26-90aa-4b6e-aa3c-74ce57990ea1&quot; width=&quot;481&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; height=&quot;137&quot;&gt;&lt;/iframe&gt;</textarea>
+</div>
+<article class="content-inner prose">
+<div class="share-zone">
+<div class="sharebar-mobile">
+<div class="share-bar">
+<a href="https://www.facebook.com/sharer.php?u=https://www.franceculture.fr/emissions/les-pieds-sur-terre/la-cantine" data-share="Facebook" class="icon icon-facebook share" rel="nofollow" target="_blank"><span class="invisible">Twitter</span></a>
+<a href="https://twitter.com/share?lang=fr&text=A la cantine via @franceculture&url=https://www.franceculture.fr/emissions/les-pieds-sur-terre/la-cantine&related=franceculture" data-share="Twitter" class="icon icon-twitter share" rel="nofollow" target="_blank"><span class="invisible">Twitter</span></a>
+<a href="https://plus.google.com/share?hl=fr&url=https://www.franceculture.fr/emissions/les-pieds-sur-terre/la-cantine" data-share="Googleplus" class="icon icon-googleplus share" rel="nofollow" target="_blank"><span class="invisible">Google +</span></a>
+<a href="mailto:?to=&subject=A la cantine&body=En France, près de 70 communes interdisent la cantine aux enfants dont les parents sont au chômage. D’autres décident de mettre fin aux menus de substitution au porc. Discriminations à l’école.  https://www.franceculture.fr/emissions/les-pieds-sur-terre/la-cantine" data-share="Mail" rel="nofollow" class="icon icon-email mail-share" target="_blank"><span class="invisible">Mail</span></a>
+<a data-content="À découvrir sur France Culture : En France, près de 70 communes interdisent la cantine aux enfants dont les parents sont au chômage. D’autres décident de mettre fin aux menus de substitution au porc. Discriminations à l’école.  https://www.franceculture.fr/emissions/les-pieds-sur-terre/la-cantine" href="sms:?body=À découvrir sur France Culture : En France, près de 70 communes interdisent la cantine aux enfants dont les parents sont au chômage. D’autres décident de mettre fin aux menus de substitution au porc. Discriminations à l’école.  https://www.franceculture.fr/emissions/les-pieds-sur-terre/la-cantine" data-share="SMS" rel="nofollow" class="icon icon-sms sms-share" target="_blank"><span class="invisible">SMS</span></a>
+</div>
+</div>
+<div class="pvu3">
+<div class="first-ad-wrapper">
+<div class="ad-wrapper">
+<div>
+<script type="text/javascript"></script>
+</div>
+</div>
+</div>
+</div>
+<div class="text-zone">
+<div class="intro">
+<div class="no-sound-available element-hidden"></div>
+<h2>En France, près de 70 communes interdisent la cantine aux enfants dont les parents sont au chômage. D’autres décident de mettre fin aux menus de substitution au porc. Discriminations à l’école. </h2>
+</div>
+<figure itemscope itemtype="https://schema.org/ImageObject"><img src="data:image/jpeg;base64, /9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDACgcHiMeGSgjISMtKygwPGRBPDc3PHtYXUlkkYCZlo+AjIqgtObDoKrarYqMyP/L2u71////m8H////6/+b9//j/2wBDASstLTw1PHZBQXb4pYyl+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj/wgARCAAcACoDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQT/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAY1yoz1ihYlWw2EdQZvnPo//xAAeEAACAgICAwAAAAAAAAAAAAAAAQIhERIQMSAiQf/aAAgBAQABBQKMsEevrFEyzAnVDVbXvxZfEvaWq8GLs//EABYRAQEBAAAAAAAAAAAAAAAAAAEQAP/aAAgBAwEBPwGmZ//EABYRAAMAAAAAAAAAAAAAAAAAAAEQIP/aAAgBAgEBPwGAv//EABsQAAICAwEAAAAAAAAAAAAAAAAhATEQESAw/9oACAEBAAY/AuFouRQPFj9v/8QAHRABAAICAwEBAAAAAAAAAAAAAQARITFBUWEQkf/aAAgBAQABPyFcRoYkvnqCRwO5S3kOH5BXR47lXZKtb+kdsWnBgkpA9ijIBUyypniGvPgKNQjzKJtU2Mt7n//aAAwDAQACAAMAAAAQBoGW7I//xAAYEQEBAQEBAAAAAAAAAAAAAAAAAREhMf/aAAgBAwEBPxDeNTFKjx//xAAYEQADAQEAAAAAAAAAAAAAAAAAARARIf/aAAgBAgEBPxCdGjU//8QAHhABAQEAAgIDAQAAAAAAAAAAAREAITFBcVGRocH/2gAIAQEAAT8Q6ZBH+O446Q7mip0fI6hVnSC/s0svATr1l1140vgrcCG/HkxIMfkiaCD8U5nvc4FkHr7zTEjEPxcdEcJr5BX2yZaA5VbPWEjpT8wQPQyjdwMbEJ6zZvgBysRTj9Mu2vvf/9k=" alt="Un plateau d&#039;une cantine scolaire" class="dejavu" data-dejavu-src="https://www.franceculture.fr/cruiser-production/2016/11/069f2c07-a8c7-493f-a8fb-fa69ec8c8025/x510_cantine.jpg.pagespeed.ic.szHce5kVuS.jpg"/><figcaption class="figcaption"><span itemprop="caption" class="caption">Un plateau d&#039;une cantine scolaire</span><span class="bullet">&bull;</span><span class="copyright">
+Crédits :
+<em itemprop="creator">Julio PELAEZ</em>
+-
+<em itemprop="copyrightHolder">Maxppp</em></span></figcaption></figure>
+<p><strong>Chanson de fin : &quot;A pic&quot; par Françoiz Breut - Album : &quot;Zoo&quot; (2016) - Label : Caramel beurre salé.</strong></p>
+<ul>
+<li><strong>Reportage : Rémi Douat</strong></li>
+<li><strong>Réalisation : Marie Plaçais</strong></li>
+</ul>
+<div class="expression-chronics">
+</div>
+<div class="expression-guest">
+</div>
+<div class="newsletter-button"><a href="/newsletter">
+<img src="/img/newsletter-mini.svg" alt="">
+<span class="mobile">Newsletters</span>
+<span class="nomobile">S'abonner à nos newsletters</span>
+</a>
+</div>
+<ul class="tags">
+<li>Tags : </li>
+<li><a href="/societe">Société</a></li>
+<li><a href="/theme/documentaire">documentaire</a></li>
+<li><a href="/theme/organisations/ecole">Ecole</a></li>
+<li><a href="/theme/nourriture">nourriture</a></li>
+</ul>
+</div>
+<div class="share-bar">
+<a href="https://www.facebook.com/sharer.php?u=https://www.franceculture.fr/emissions/les-pieds-sur-terre/la-cantine" data-share="Facebook" class="icon icon-facebook share" rel="nofollow" target="_blank"><span class="invisible">Twitter</span></a>
+<a href="https://twitter.com/share?lang=fr&text=A la cantine via @franceculture&url=https://www.franceculture.fr/emissions/les-pieds-sur-terre/la-cantine&related=franceculture" data-share="Twitter" class="icon icon-twitter share" rel="nofollow" target="_blank"><span class="invisible">Twitter</span></a>
+<a href="https://plus.google.com/share?hl=fr&url=https://www.franceculture.fr/emissions/les-pieds-sur-terre/la-cantine" data-share="Googleplus" class="icon icon-googleplus share" rel="nofollow" target="_blank"><span class="invisible">Google +</span></a>
+<a href="mailto:?to=&subject=A la cantine&body=En France, près de 70 communes interdisent la cantine aux enfants dont les parents sont au chômage. D’autres décident de mettre fin aux menus de substitution au porc. Discriminations à l’école.  https://www.franceculture.fr/emissions/les-pieds-sur-terre/la-cantine" data-share="Mail" rel="nofollow" class="icon icon-email mail-share" target="_blank"><span class="invisible">Mail</span></a>
+<a data-content="À découvrir sur France Culture : En France, près de 70 communes interdisent la cantine aux enfants dont les parents sont au chômage. D’autres décident de mettre fin aux menus de substitution au porc. Discriminations à l’école.  https://www.franceculture.fr/emissions/les-pieds-sur-terre/la-cantine" href="sms:?body=À découvrir sur France Culture : En France, près de 70 communes interdisent la cantine aux enfants dont les parents sont au chômage. D’autres décident de mettre fin aux menus de substitution au porc. Discriminations à l’école.  https://www.franceculture.fr/emissions/les-pieds-sur-terre/la-cantine" data-share="SMS" rel="nofollow" class="icon icon-sms sms-share" target="_blank"><span class="invisible">SMS</span></a>
+</div>
+</div>
+<div class="bloc-same-topic">
+<p class="title">À découvrir</p>
+<div class="bloc-topic">
+<div class="icon-wrapper">
+<div class="icon-wrapper">
+<div class="player-inline play-wrapper play-wrapper-aod">
+<button class="player-button icon icon-play-circle btn-play aod" data-asset-xtname="Extrait::Les_Pieds_dans_la_terre::Les_Pieds_dans_la_terre" data-asset-title="Les Pieds dans la terre" data-asset-surtitle="Les Pieds sur terre" data-asset-source="http://media.radiofrance-podcast.net/podcast09/10078-07.11.2016-ITEMA_21127485-0.mp3" data-duration="1680" data-title-link="/emissions/les-pieds-sur-terre/les-pieds-dans-la-terre" data-surtitle-link="/emissions/les-pieds-sur-terre" data-business-reference="6612" data-short-id="1299a593" data-clip-type="reecoute">
+</button>
+</div>
+</div>
+</div>
+<a href="/emissions/les-pieds-sur-terre/les-pieds-dans-la-terre">
+<p class="text">Les Pieds dans la terre</p>
+</a>
+</div>
+<div class="bloc-topic">
+<div class="icon-wrapper">
+<div class="icon-wrapper">
+<div class="player-inline play-wrapper play-wrapper-aod">
+<button class="player-button icon icon-play-circle btn-play aod" data-asset-xtname="Extrait::Mes_annees_Boum,_une_enquete_algerienne_:_«Papa_est_mort»_(1/7)::Mes_annees_Boum,_une_enquete_algerienne_:_«Papa_est_mort»_(1/7)" data-asset-title="Mes années Boum, une enquête algérienne (1/7) : «Papa est mort»" data-asset-surtitle="Les Pieds sur terre" data-asset-source="http://media.radiofrance-podcast.net/podcast09/10078-03.11.2016-ITEMA_21124019-0.mp3" data-duration="1680" data-title-link="/emissions/les-pieds-sur-terre/mes-annees-boum-une-enquete-algerienne-17-papa-est-mort" data-surtitle-link="/emissions/les-pieds-sur-terre" data-business-reference="6612" data-short-id="56700aac" data-clip-type="reecoute">
+</button>
+</div>
+</div>
+</div>
+<a href="/emissions/les-pieds-sur-terre/mes-annees-boum-une-enquete-algerienne-17-papa-est-mort">
+<p class="text">Mes années Boum, une enquête algérienne (1/7) : «Papa est mort»</p>
+</a>
+</div>
+</div>
+<div class="OUTBRAIN" data-src="https://www.franceculture.fr/emissions/les-pieds-sur-terre/la-cantine" data-widget-id="AR_1" data-ob-template="FranceCulture"></div>
+<div class="OUTBRAIN" data-src="https://www.franceculture.fr/emissions/les-pieds-sur-terre/la-cantine" data-widget-id="AR_2" data-ob-template="FranceCulture"></div>
+<script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script>
+<div class="comments-wrapper">
+<div id="disqus_thread"></div>
+<script>var disqus_config=function(){this.page.url='https://www.franceculture.fr/emissions/les-pieds-sur-terre/la-cantine';this.page.identifier='a435cc26-90aa-4b6e-aa3c-74ce57990ea1';};if('object'===typeof window.DISQUS&&'function'===typeof window.DISQUS.reset)window.DISQUS.reset({reload:true,config:disqus_config});</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+</div>
+</article>
+</div>
+<div id="sidebar">
+<div class="box-direct no-mobile">
+<div class="title">Le direct</div>
+<div class="box-buttons">
+<button class="player-button play direct_btn">
+<span class="icon-play"></span>
+</button>
+<div class="player-button equalizer">
+<span class="picto-loading"></span>
+</div>
+</div>
+<div class="box-content">
+<div class="duration pre-text"></div>
+<div class="surtitle pre-text"></div>
+<div class="text">Le direct</div>
+</div>
+</div>
+<div class="pvu1">
+<div class="first-ad-wrapper">
+<div class="ad-wrapper">
+<div>
+<script type="text/javascript"></script>
+</div>
+</div>
+</div>
+</div>
+<div class="bloc social-network no-mobile">
+<div class="contact no-mobile">
+<div class="social_links">
+<p class="title">Suivez France Culture </p>
+<a title="Facebook" class="facebook" target="_blank" href="https://www.facebook.com/franceculture/">
+<span class="icon-facebook"></span>
+</a>
+<a title="Twitter" class="twitter" target="_blank" href="https://twitter.com/franceculture">
+<span class="icon-twitter"></span>
+</a>
+</div>
+<div class="meanl2">
+<a href="/newsletter">
+<div class="visuel">
+<img src="/img/newsletter-big.svg" alt="newsletter" width="20" height="20">
+</div>
+<div class="text">
+<div class="h1">
+Abonnez-vous à nos newsletters
+</div>
+<p class="blabla">Recevez, au rythme voulu, le meilleur de France Culture</p>
+<p>
+<span class="calltoaction">Je m'abonne !</span>
+</p>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="most-viewed">
+</div>
+<div class="bloc team no-mobile">
+<p class="title">L'équipe</p>
+<div class="box-staff">
+<div class="role">Production</div>
+<a href="/personne-sonia-kronlund.html">Sonia Kronlund</a> <div class="role">Avec la collaboration de</div>
+<a href="/personne-sandrine-chapron.html">Sandrine Chapron</a> <div class="role">Production déléguée</div>
+<a href="/personne-elise-andrieu.html">Elise Andrieu</a>, <a href="/personne/charlotte-bienaime">Charlotte Bienaimé</a>, <a href="/personne-delphine-dhilly">Delphine Dhilly</a>, <a href="/personne-leila-djitli.html">Leila Djitli</a>, <a href="/personne-remi-douat.html">Rémi Douat</a>, <a href="/personne-sophie-knapp">Sophie Knapp</a>, <a href="/personne/ines-leraud">Inès Léraud</a>, <a href="/personne-bahar-makooi.html">Bahar Makooi</a>, <a href="/personne-ilana-navaro">Ilana Navaro</a>, <a href="/personne-olivier-minot.html">Olivier Minot</a>, <a href="/personne-delphine-saltel.html">Delphine Saltel</a>, <a href="/personne/jerome-sandlarz">Jérôme Sandlarz</a>, <a href="/personne-stephanie-thomas">Stéphanie Thomas</a> <div class="role">Réalisation</div>
+<a href="/personne-emmanuel-geoffroy.html">Emmanuel Geoffroy</a>, <a href="/personne/eric-lancien">Eric Lancien</a>, <a href="/personne-peire-legras">Peire Legras</a>, <a href="/personne-delphine-lemer.html">Delphine Lemer</a>, <a href="/personne-marie-placais">Marie Plaçais</a> </div>
+<div class="box-social">
+<div id="social-links">
+<div class="title">Suivre l'émission</div>
+<a href="https://www.facebook.com/Les-Pieds-sur-Terre-France-culture-178287188858770/" target="_blank" class="follow icon-facebook"><span class="invisible">facebook</span></a>
+<a href="https://twitter.com/pieds_sur_terre" target="_blank" class="follow icon-twitter"><span class="invisible">twitter</span></a>
+</div>
+<div id="contact-links">
+<div class="title">Contacter l'émission</div>
+<a href="mailto:sonia.kronlund@radiofrance.com" data-share="Mail" rel="nofollow" class="follow icon-email" target="_blank"><span class="invisible">Mail</span></a>
+</div>
+</div>
+</div>
+<div class="pvb2">
+<div class="first-ad-wrapper">
+<div class="ad-wrapper">
+<div>
+<script type="text/javascript"></script>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">xtsd=window.location.protocol==='https:'?"https://logs1286":"http://logc286";xtn2="5";xtpage="Emissions::Les_Pieds_sur_terre::Diffusions::diffusion_-_A_la_cantine_-_b8a231d1";xt_multc="&x4=5&x5=Les_Pieds_sur_terre&x9=20161107";window.xtparam="&ac=&an="+xt_multc;window.xtparam+="&xt_tags=[Societe]|[documentaire]|[Ecole]|[nourriture]";atinternet_share="Partages::Diffusions::A_la_cantine_-_b8a231d1";</script>
+<noscript>
+<img width="1" height="1" src="http://logc286.xiti.com/hit.xiti?s=539129&s2=5&p=Emissions::Les_Pieds_sur_terre::Diffusions::diffusion_-_A_la_cantine_-_b8a231d1&x4=5&x9=20161107&x5=Les_Pieds_sur_terre&x9=20161107&xt_mtcl=&xt_npg=&xt_tags=[Societe]|[documentaire]|[Ecole]|[nourriture]&di=&ac=&an=&">
+</noscript>
+</div>
+<div id="loader"></div>
+<footer id="main-footer">
+<div class="container-footer">
+<div class="col1">
+<img src="data:image/png;base64,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" alt="logo france culture" class="logo">
+</div>
+<div class="col2">
+<div class="bloc generic">
+<a href="/presse">Presse et communiqués</a>
+<a target="_blank" href="http://editions.radiofrance.fr/category/collections/france_culture_papiers/">France Culture Papiers</a>
+</div>
+</div>
+<hr>
+<div class="col1">
+<div class="bloc listen">
+<div class="titlebloc">Écouter</div>
+<a href="/direct">
+<span class="icon-play"></span> Direct
+</a>
+<a href="/programmes">
+<span class="icon-grid-of-the-day"></span> Grille
+</a>
+<a href="/liste-des-emissions">
+<span class="icon-podcast"></span> Émissions et podcasts
+</a>
+<a target="_blank" href="http://www.radiofrance.fr/boite-a-outils/frequences">
+<span class="icon-france"></span> Fréquences
+</a>
+<a target="_blank" href="http://www.radiofrance.fr/espace-pro/appli-rf-direct/">
+<span class="icon-apps"></span> Applications
+</a>
+<a target="_blank" href="http://www.radiofrance.fr/boite-a-outils/faq/">
+<span class="icon-listen-help"></span> Aide à l'écoute
+</a>
+</div>
+<div class="bloc contact">
+<div class="titlebloc">Contact</div>
+<div class="socialnetwork">
+<a target="_blank" href="https://www.facebook.com/franceculture/">
+<span class="icon-facebook"></span>
+<span class="name">Facebook</span>
+</a>
+<a target="_blank" href="https://twitter.com/franceculture">
+<span class="icon-twitter"></span>
+<span class="name">Twitter</span>
+</a>
+<a target="_blank" href="https://plus.google.com/+franceculture">
+<span class="icon-googleplus"></span>
+<span class="name">Google+</span>
+</a>
+</div>
+<a href="/newsletter">S'abonner à la newsletter</a>
+<a target="_blank" href="http://espacepublic.radiofrance.fr/">Contact du médiateur</a>
+</div>
+</div>
+<div class="col2">
+<div class="bloc thematic">
+<div class="titlebloc">Thématiques</div>
+<div class="theme">
+<a href="/actualite">Actualité</a>
+<div class="sublist">
+<a href="/droit-justice">Droit et justice</a>,
+<a href="/economie">Économie</a>,
+<a href="/education">Éducation</a>,
+<a href="/environnement">Environnement</a>,
+<a href="/geopolitique">Géopolitique</a>,
+<a href="/medias">Médias</a>,
+<a href="/numerique">Numérique</a>,
+<a href="/politique">Politique</a>,
+<a href="/religion-et-spiritualite">Religion et spiritualité</a>,
+<a href="/societe">Société</a>
+</div>
+</div>
+<div class="theme">
+<span class="fake-link">Savoirs</span>
+<div class="sublist">
+<a href="/geographie">Géographie</a>,
+<a href="/histoire">Histoire</a>,
+<a href="/philosophie">Philosophie</a>,
+<a href="/psychanalyse">Psychanalyse</a>,
+<a href="/sciences">Sciences</a>,
+<a href="/sociologie">Sociologie</a>
+</div>
+</div>
+<div class="theme">
+<span class="fake-link">Art et Création</span>
+<div class="sublist">
+<a href="/architecture">architecture</a>,
+<a href="/bande-dessinee">BD</a>,
+<a href="/cinema">cinéma</a>,
+<a href="/theatre">théâtre</a>,
+<a href="/creation-sonore">création sonore</a>,
+<a href="/danse">danse</a>,
+<a href="/dessin">dessin</a>,
+<a href="/design">design</a>,
+<a href="/gastronomie">gastronomie</a>,
+<a href="/litterature">littérature</a>,
+<a href="/musique">musique</a>,
+<a href="/peinture">peinture</a>,
+<a href="/photographie">photographie</a>,
+<a href="/sculpture">sculpture</a>,
+<a href="/theatre">théâtre</a>,
+<a href="/video">vidéo</a>
+</div>
+</div>
+</div>
+<div class="bloc index">
+<div class="titlebloc">Index</div>
+<a href="/series">Toutes les séries</a>
+<a href="/dossiers">Tous les dossiers</a>
+<a href="/theme">Tous les tags</a>
+<a href="/personalites">Toutes les personnalités</a>
+<a href="/liste-des-emissions">Toutes les émissions</a>
+<a href="/oeuvres">Toutes les œuvres</a>
+</div>
+<div class="bloc univers">
+<div class="titlebloc">Nos univers</div>
+<a href="/fictions">Fictions</a>
+<a href="/documentaires">Documentaire</a>
+<a href="/conferences">Conférences</a>
+</div>
+<div class="bloc evenements">
+<div class="titlebloc">Événements</div>
+<a href="/evenements">Événements France Culture</a>
+<a href="/evenements/partenaire">Événements Partenaires</a>
+</div>
+</div>
+</div>
+<div class="foot-group">
+<a target="_blank" href="http://editions.radiofrance.fr/category/chaines/france-culture/">Éditions</a>
+<a target="_blank" href="http://espacepublic.radiofrance.fr/">médiateur</a>
+<a target="_blank" href="http://www.radiofrance.fr/mentions-legales/">mentions légales</a>
+<a target="_blank" href="http://www.radiofrancepublicite.fr/">annonceurs</a>
+<a target="_blank" href="http://www.radiofrance.fr/boite-a-outils/frequences/">fréquences</a>
+<a target="_blank" rel="nofollow" href="http://www.ojd.com/Marque/marque-france-culture">OJD</a>
+</div>
+<div class="ojd-bloc">
+<p>France Culture &copy; 2016</p>
+<p class="ojd">La fréquentation de France Culture est certifiée par l'OJD</p>
+</div>
+</footer>
+</div>
+<div id="player" class="player">
+<div class="player_wrapper" style="overflow: hidden; height: 1px; width: 1px">
+<div id="audio" data-url-live="http://direct.franceculture.fr/live/franceculture-midfi.mp3" data-url-TS="http://direct.franceculture.fr/ts/franceculture-midfi.mp3" data-xtn2="4" data-xtsite="539129" data-xiti-localisation="int" data-url-program="/programmes?xmlHttpRequest=1" data-name="lecteur-commun"></div>
+</div>
+<button class="player-button play" data-player-play>
+<span class="icon-play"></span>
+</button>
+<div class="player-button equalizer">
+<span class="picto-loading"></span>
+</div>
+<div class="progress-wrapper">
+<div class="progress-bar">
+<div class="bar-placeholder">
+<div class="bar no-drag" style="width: 0%">
+<div class="timebox">
+<span class="timebox-content"></span>
+<div class="bottom"></div>
+</div>
+<div class="handle"> </div>
+<div class="playhead"> </div>
+</div>
+</div>
+</div>
+<div class="progress-static">
+<div id="information">
+<span id="player-mode">Ecouter le direct</span>
+<span class="space-dot"> • </span>
+<span class="surtitle"></span>
+</div>
+<div class="time"></div>
+<div class="title">Le direct</div>
+</div>
+</div>
+<div class="volume-wrapper">
+<a class="player-button mute"><span class="icon-volume-on"></span></a>
+<div class="volume-slider-wrapper">
+<div class="volume-slider">
+<div class="level"></div>
+</div>
+</div>
+</div>
+<a class="player-button back"><span class="icon-back"></span></a>
+</div>
+<div id="warning_cookie">
+<div id="content_warning_cookie_wrapper">
+<div id="content_warning_cookie">
+<a class="close_cookie" href="#">Fermer X</a>
+<p>En poursuivant votre navigation sur le site, vous acceptez l’utilisation des cookies pour vous proposer des contenus et services adaptés à vos centres d’intérêt.</p>
+<a href="http://www.radiofrance.fr/politique-d-utilisation-des-cookies-sur-les-sites-internet-du-groupe-radio-france" target="_blank">En savoir plus et gérer ces paramètres.</a>
+</div>
+</div>
+</div>
+<script src="/js/vendor_main-17eea540f4.min.js.pagespeed.jm._zmL9gNOuH.js" data-no-instant></script>
+<script src="/js/main-74976754ef.min.js.pagespeed.jm.SZTjclaqir.js" data-no-instant></script>
+<div id="ad-init">
+<div class="ad-wrapper">
+<script type="text/javascript">window.sasFormats={};window.sasFormats['sas_28988']=function(){'object'===typeof window.sas&&'function'===typeof window.sas.call&&window.sas.call("std",{siteId:70659,pageId:537616,formatId:'28988',target:''});};window.sasFormats['sas_28999']=function(){'object'===typeof window.sas&&'function'===typeof window.sas.call&&window.sas.call("std",{siteId:70659,pageId:537616,formatId:'28999',target:''});};window.sasFormats['sas_29000']=function(){'object'===typeof window.sas&&'function'===typeof window.sas.call&&window.sas.call("std",{siteId:70659,pageId:537616,formatId:'29000',target:''});};window.sasFormats['sas_28993']=function(){'object'===typeof window.sas&&'function'===typeof window.sas.call&&window.sas.call("std",{siteId:70659,pageId:537616,formatId:'28993',target:''});};window.sasFormats['sas_28992']=function(){'object'===typeof window.sas&&'function'===typeof window.sas.call&&window.sas.call("std",{siteId:70659,pageId:537616,formatId:'28992',target:''});};</script>
+</div>
+</div>
+<div id="fb-root"></div>
+<script data-no-instant>(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.async=true;js.src="//connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.3&appId=1607849499491866";fjs.parentNode.insertBefore(js,fjs);}(document,'script','facebook-jssdk'));</script>
+<script data-no-instant>(function(){var d=document,s=d.createElement('script');s.src='//franceculture.disqus.com/embed.js';s.setAttribute('data-timestamp',+new Date());(d.head||d.body).appendChild(s);})();</script>
+<div id="nugg.ad">
+<script type="text/javascript" data-no-instant>var n_pbt="";var nuggAIArray='';var nuggrid=encodeURIComponent(top.location.href);var nuggtg=encodeURIComponent("CONTENT TAG");var nuggn=188935317;var nuggsid=384573882;var nuggsub="asqexpress";var nuggscr=document.createElement('script');nuggscr.type='text/javascript';nuggscr.src='//'+nuggsub+'.nuggad.net/rc?nuggn='+nuggn+'&nuggsid='+nuggsid+'&nuggrid='+nuggrid+'&nuggtg='+nuggtg;var n=document.getElementsByTagName('script')[0];n.parentNode.insertBefore(nuggscr,n);</script>
+</div>
+<script type="text/javascript">xtsd=window.location.protocol==='https:'?"https://logs1286":"http://logc286";xtn2="5";xtpage="Emissions::Les_Pieds_sur_terre::Diffusions::diffusion_-_A_la_cantine_-_b8a231d1";xt_multc="&x4=5&x5=Les_Pieds_sur_terre&x9=20161107";window.xtparam="&ac=&an="+xt_multc;window.xtparam+="&xt_tags=[Societe]|[documentaire]|[Ecole]|[nourriture]";atinternet_share="Partages::Diffusions::A_la_cantine_-_b8a231d1";</script>
+<noscript>
+<img width="1" height="1" src="http://logc286.xiti.com/hit.xiti?s=539129&s2=5&p=Emissions::Les_Pieds_sur_terre::Diffusions::diffusion_-_A_la_cantine_-_b8a231d1&x4=5&x9=20161107&x5=Les_Pieds_sur_terre&x9=20161107&xt_mtcl=&xt_npg=&xt_tags=[Societe]|[documentaire]|[Ecole]|[nourriture]&di=&ac=&an=&">
+</noscript>
+<script type="text/javascript">atinternet_is_mobile=function(){if(navigator.userAgent.match(/Android/i)||navigator.userAgent.match(/webOS/i)||navigator.userAgent.match(/iPhone/i)||navigator.userAgent.match(/iPad/i)||navigator.userAgent.match(/iPod/i)||navigator.userAgent.match(/\biOS\b/i)||navigator.userAgent.match(/Mobile Safari/i)||navigator.userAgent.match(/\bBlackBerry\b/i)||navigator.userAgent.match(/\bBada\b/i)||navigator.userAgent.match(/\bNetFront\b/i)||navigator.userAgent.match(/Opera mini/i)||navigator.userAgent.match(/Opera Mobi/i)||navigator.userAgent.match(/Windows RT/i)||navigator.userAgent.match(/\bIEMobile\b/i)||navigator.userAgent.match(/Windows Phone/i)||navigator.userAgent.match(/Nintendo Wii/i)||navigator.userAgent.match(/PS3|PLAYSTATION 3/i)||navigator.userAgent.match(/PSP|PlayStation Portable/i)){return true;}else{return false;}};atinternet_share_onclick=function(media){if('function'!=typeof xt_med){console.log('[ATINTERNET ERROR] No xt_med support: xtcore library probably not loaded');return;}xt_med('C',xtn2,atinternet_share+'::'+media,'A');};$('body').on('click','.share-bar a',function(){atinternet_share_onclick($(this).data('share'));});xtsite=atinternet_is_mobile()?"549486":"539129";xtnv=document;if(!document.getElementById('atscriptid')){var at=document.createElement('script');at.type='text/javascript';at.id="atscriptid";at.async=true;at.src="/static/vendor/js/xtcore.js";(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]||document.getElementsByTagName('script')[0].parentNode).insertBefore(at,null);}</script>
+</body>
+</html>
