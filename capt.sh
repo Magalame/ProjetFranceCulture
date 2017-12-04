@@ -54,8 +54,8 @@ echo "-----------------------------------------------------------------------"
 
 
 
-date_html=$(cat html_page | grep '<span class="inner">' | head -n 1) 
-IFS="[<.>]"; date=($date_html); unset IFS;
+date_html=$(cat html_page | grep -A 1 -a '<div class="heading-zone-title-date">' | tail -n 1) 
+IFS="[<.>/]"; date=($date_html); unset IFS;
 jour=${date[2]};mois=${date[3]};annee=${date[4]};
 
 cd ../
