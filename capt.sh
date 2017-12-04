@@ -67,39 +67,39 @@ echo "Nom du fichier:" "$nom_final"
 
 echo "-----------------------------------------------------------------------"
 
-#rm -R work
+rm -R work
 
 if [ "$2" = "-y" ]; then
 
-if [ ! -d "/mnt/d/Radio/$nom_prog" ]; then
-mkdir "/mnt/d/Radio/$nom_prog"
-fi
+    if [ ! -d "/mnt/d/Radio/$nom_prog" ]; then
+        mkdir "/mnt/d/Radio/$nom_prog"
+    fi
 
-cd "/mnt/d/Radio/$nom_prog"
+    cd "/mnt/d/Radio/$nom_prog"
 
-if [ -f "$nom_final" ]; then
+    if [ -f "$nom_final" ]; then
 
-echo "Le fichier existe déjà sous le nom: $nom_final"
-exit
+        echo "Le fichier existe déjà sous le nom: $nom_final"
+        exit
 
-fi
+    fi
 
-wget -nv -O "$nom_final" $url_var
+    wget -O "$nom_final" $url_var
 
 fi
 
 if [ "$2" != "-y" ]; then
 
-if [ -f "$nom_final" ]; then
+    if [ -f "$nom_final" ]; then
 
-echo "Le fichier existe déjà sous le nom: $nom_final"
-exit
+        echo "Le fichier existe déjà sous le nom: $nom_final"
+        exit
 
-fi
+    fi
 
-wget -nv -O "$nom_final" $url_var
+    wget -O "$nom_final" $url_var
 
 fi
 
 #id3tool -t $nom_entier_pod_var -a $nom_prog -Y $annee $nom_final
-eyeD3 -2 --set-encoding=latin1 -t "$nom_entier_pod_var_pur" -A "$nom_prog_pur" -Y "$annee" "$nom_final"
+eyeD3 -2 --set-encoding=utf16-BE -t "$nom_entier_pod_var" -A "$nom_prog" -Y "$annee" "$nom_final"
