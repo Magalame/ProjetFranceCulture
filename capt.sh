@@ -11,9 +11,9 @@ echo "Adresse recue par capt.sh:$1"
 
 nom_pod=$(echo "$1" | cut -f 6 -d "/")
 
-echo "-----------------------------------------------------------------------"
+#echo "-----------------------------------------------------------------------"
 
-echo "Nom html podcast:" $nom_pod
+#echo "Nom html podcast:" $nom_pod
 
 echo "-----------------------------------------------------------------------"
 
@@ -25,7 +25,7 @@ echo $nom_entier_pod_var_pur | sed 's/&#039;/'\''/g' | sed 's/[/]/-/g' | sed 's/
 
 nom_entier_pod_var=$(cat nom_entier_pod)
 
-echo "Nom entier du podcast:" $nom_entier_pod_var
+echo "Nom du podcast:" $nom_entier_pod_var
 
 echo "-----------------------------------------------------------------------"
 
@@ -33,11 +33,11 @@ cat html_page | grep "<button" -A 20 | grep "$nom_entier_pod_var_pur" -A 5 -B 5 
 url_var=$(cat url)
 
 echo "Url var:" $url_var
-echo "-----------------------------------------------------------------------"
+#echo "-----------------------------------------------------------------------"
 
 nom_prog_html_var=$(echo "$1" | cut -f 5 -d "/")
 
-echo "Nom prog html: $nom_prog_html_var"
+#echo "Nom prog html: $nom_prog_html_var"
 set=$(echo "$nom_prog_html_var\">")
 
 echo "-----------------------------------------------------------------------"
