@@ -18,7 +18,7 @@ Ce qui donne, par exemple pour la troisième page de Mauvais genres:
 
 * EmissionEntiere.sh
 
-Permet de télécharger une émission entière à partir de la première page de l'émission. Par exemple [ici](https://www.franceculture.fr/emissions/mauvais-genres/saison-29-08-2016-02-07-2017) pour une saison entière, ou [là](https://www.franceculture.fr/emissions/mauvais-genres) pour l'émission entière toute saisons confondues.
+Permet de télécharger une émission entière à partir de la première page de l'émission. Par exemple [ici](https://www.franceculture.fr/emissions/mauvais-genres/saison-29-08-2016-02-07-2017) pour une saison entière, ou [là](https://www.franceculture.fr/emissions/mauvais-genres) pour l'émission entière toutes saisons confondues.
 
 Ainsi, pour la saison 2016-2017 des Nuits de France Culture:
 
