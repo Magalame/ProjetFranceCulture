@@ -36,7 +36,7 @@ echo "-----------------------------------------------------------------------"
 cat html_page | grep "<button" -A 20 | grep "$nom_entier_pod_var_pur" -A 5 -B 5 | grep ".mp3" | awk -F 'data-asset-source="' '{print $2}' | awk -F '"' '{print $1}' | head -n 1 > url
 url_var=$(cat url)
 
-echo "Url var:" $url_var
+echo "Url du fichier:" $url_var
 #echo "-----------------------------------------------------------------------"
 
 nom_prog_html_var=$(echo "$1" | cut -f 5 -d "/")
@@ -49,7 +49,7 @@ cat html_page | grep "<button" -A 20 | grep "$nom_entier_pod_var_pur" -A 5 -B 5 
 
 nom_prog_pur=$(cat nom_prog)
 
-echo $nom_prog_pur | sed 's/&#039;/'\''/g' | sed 's/[/]/-/g' | sed 's/[?(]//g' | sed 's/)//g' | sed 's/:/;/g' | sed 's/&quot;/"/g' > nom_prog
+echo $nom_prog_pur | sed 's/&#039;/'\''/g' | sed 's/[/]/-/g' | sed 's/[?(]//g' | sed 's/)//g' | sed 's/:/;/g' | sed 's/&quot;/"/g' > nom_prog #certain caratères sont relativement risqué, donc on les enlève
 
 nom_prog=$(cat nom_prog)
 
