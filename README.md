@@ -2,7 +2,15 @@
 
 ## Téléchargement
 
-Pour télécharger le .tar (recommendé):
+On commence par créer un dossier, sinon les fichiers vont se mélanger aux autres au même endroit:
+
+`mkdir ProjetFranceCulture`
+
+Puis on y rentre:
+
+`cd ProjetFranceCulture`
+
+Puis, pour télécharger le .tar (recommendé):
 
 `wget https://raw.githubusercontent.com/Magalame/ProjetFranceCulture/master/ProjetFranceCulture.tar`
 
