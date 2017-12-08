@@ -30,20 +30,20 @@ Ce qui donne, par exemple pour la troisième page de Mauvais genres:
 
 ### EmissionEntiere.sh
 
-Permet de télécharger une émission entière à partir de la première page de l'émission. Par exemple [ici](https://www.franceculture.fr/emissions/mauvais-genres/saison-29-08-2016-02-07-2017) pour une saison entière, ou [là](https://www.franceculture.fr/emissions/mauvais-genres) pour l'émission entière toutes saisons confondues.
+Permet de télécharger une émission ou un saison entière à partir de la première page de l'émission. Par exemple [ici](https://www.franceculture.fr/emissions/mauvais-genres/saison-29-08-2016-02-07-2017) pour une *saison* entière, ou [là](https://www.franceculture.fr/emissions/mauvais-genres) pour l'*émission* entière, toutes saisons confondues.
 
-Ainsi, pour la saison 2016-2017 des Nuits de France Culture:
+Ainsi, pour la *saison 2016-2017* des Nuits de France Culture:
 
 `./EmissionEntiere.sh https://www.franceculture.fr/emissions/les-nuits-de-france-culture/saison-29-08-2016-02-07-2017`
 
-Pour la saison été 2016 de l'Heure du documentaire:
+Pour la *saison été 2016* de l'Heure du documentaire:
 
 `./EmissionEntiere.sh https://www.franceculture.fr/emissions/lheure-du-documentaire/saison-04-07-2016-28-08-2016` 
 
-Pour le programme entier LSD, la série documentaire:
+Pour le *programme entier* "LSD, la série documentaire":
 
 `./EmissionEntiere.sh https://www.franceculture.fr/emissions/lsd-la-serie-documentaire`
 
-Pour l'émission entière du Journal de la philo:
+Pour l'*émission entière* du Journal de la philo:
 
 `./EmissionEntiere/sh https://www.franceculture.fr/emissions/le-journal-de-la-philo`
