@@ -4,9 +4,9 @@
 
 Pour télécharger le .tar (recommendé):
 
-`wget https://raw.githubusercontent.com/Magalame/ProjetFranceCulture/master/ProjetFranceCulture.tar
+`wget https://raw.githubusercontent.com/Magalame/ProjetFranceCulture/master/ProjetFranceCulture.tar`
 
-tar -xvf ProjetFranceCulture.tar`
+`tar -xvf ProjetFranceCulture.tar`
 
 Pour ceux qui le souhaite, il y a aussi un .zip, mais c'est moins pratique sous unix:
 
