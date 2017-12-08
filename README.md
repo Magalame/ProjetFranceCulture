@@ -12,6 +12,9 @@ Pour ceux qui le souhaite, il y a aussi un .zip, mais c'est moins pratique sous 
 
 `wget https://raw.githubusercontent.com/Magalame/ProjetFranceCulture/master/ProjetFranceCulture.zip`
 
+
+## Utilisation
+
 Les trois scripts permettent de télécharger trois types de contenus différent:
 
 ### capt.sh
