@@ -27,13 +27,13 @@ Les trois scripts permettent de télécharger trois types de contenus différent
 
 ### capt.sh
 
-Permet de télécharger une émission d'un programme. Par exemple pour télécharger [l'émission du 12 août 2016 de l'Heure du documentaire](https://www.franceculture.fr/emissions/lheure-du-documentaire/la-derniere-fois), taper:
+Permet de télécharger **une émission d'un programme**. Par exemple pour télécharger [l'émission du 12 août 2016 de l'Heure du documentaire](https://www.franceculture.fr/emissions/lheure-du-documentaire/la-derniere-fois), taper:
 
 `./capt.sh https://www.franceculture.fr/emissions/lheure-du-documentaire/la-derniere-fois`
 
 ### LoopCulturePage.sh
 
-Permet de télécharger une page entière d'un programme, tel qu'[ici](https://www.franceculture.fr/emissions/mauvais-genres/saison-29-08-2016-02-07-2017), [là](https://www.franceculture.fr/emissions/mauvais-genres/saison-29-08-2016-02-07-2017?p=2), ou [là](https://www.franceculture.fr/emissions/mauvais-genres/saison-29-08-2016-02-07-2017?p=3)
+Permet de télécharger **page entière d'un programme**, tel qu'[ici](https://www.franceculture.fr/emissions/mauvais-genres/saison-29-08-2016-02-07-2017), [là](https://www.franceculture.fr/emissions/mauvais-genres/saison-29-08-2016-02-07-2017?p=2), ou [là](https://www.franceculture.fr/emissions/mauvais-genres/saison-29-08-2016-02-07-2017?p=3)
 
 Ce qui donne, par exemple pour la troisième page de Mauvais genres:
 
@@ -41,7 +41,7 @@ Ce qui donne, par exemple pour la troisième page de Mauvais genres:
 
 ### EmissionEntiereCulture.sh
 
-Permet de télécharger un programme ou un saison entière à partir de la première page de l'émission. Par exemple [ici](https://www.franceculture.fr/emissions/mauvais-genres/saison-29-08-2016-02-07-2017) pour une *saison* entière, ou [là](https://www.franceculture.fr/emissions/mauvais-genres) pour le *programme entier*, toutes saisons confondues.
+Permet de télécharger **un programme ou un saison entière** à partir de la première page de l'émission. Par exemple [ici](https://www.franceculture.fr/emissions/mauvais-genres/saison-29-08-2016-02-07-2017) pour une *saison* entière, ou [là](https://www.franceculture.fr/emissions/mauvais-genres) pour le *programme entier*, toutes saisons confondues.
 
 Ainsi, pour la *saison 2016-2017* des Nuits de France Culture:
 
