@@ -3,3 +3,4 @@ Hey.sh
 test*
 work/*
 *.mp3
+build_tar.sh
